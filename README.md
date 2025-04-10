@@ -5,7 +5,7 @@ Aquí encontrarás algunas de las practicas llevadas a cabo por mí en el módul
 
 El módulo de Sistemas Informáticos en el grado superior de Desarrollo de Aplicaciones Multiplataforma es fundamental para adquirir las competencias necesarias en la instalación, configuración, mantenimiento y explotación de sistemas operativos y redes locales. Este módulo abarca una amplia variedad de temas y habilidades que son esenciales para el desarrollo profesional en el ámbito de la informática.
 
-#Contenidos principales:
+## Contenidos principales:
 - **Identificación del hardware**: Aprenderás a reconocer los componentes físicos de un sistema informático, desde procesadores hasta dispositivos de almacenamiento y periféricos.
 
 - **Sistemas operativos**: Se profundiza en la instalación, configuración y actualización de sistemas operativos, tanto en entornos locales como en red.
@@ -20,7 +20,7 @@ El módulo de Sistemas Informáticos en el grado superior de Desarrollo de Aplic
 
 - **Aplicaciones informáticas**: Instalación y configuración de aplicaciones según las necesidades del sistema y los usuarios.
 
-##Objetivos del módulo:
+## Objetivos del módulo:
 - *Adquirir habilidades para instalar y mantener sistemas operativos y redes.*
 
 - *Garantizar la seguridad y el correcto funcionamiento de los sistemas informáticos.*
@@ -29,7 +29,7 @@ El módulo de Sistemas Informáticos en el grado superior de Desarrollo de Aplic
 
 - *Preparar a los estudiantes para trabajar en entornos empresariales, adaptándose a las necesidades tecnológicas.*
 
-##Metodología:
+## Metodología:
 El aprendizaje en este módulo combina teoría y práctica. Los estudiantes realizan actividades como:
 
 - *Instalación y configuración de sistemas operativos en entornos reales y simulados.*
