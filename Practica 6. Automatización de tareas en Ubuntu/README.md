@@ -1,4 +1,4 @@
-#¿En que consiste esta practica?
+# ¿En que consiste esta practica?
 
 Esta práctica consiste en instalar y configurar Logwatch, una herramienta de análisis de logs, para generar informes detallados de los registros del sistema. Luego, se automatiza su ejecución diaria utilizando crontab.
 
