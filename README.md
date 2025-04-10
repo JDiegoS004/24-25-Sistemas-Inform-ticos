@@ -1,1 +1,1 @@
-# *Sistemas-Informaticos 24/25*
+# *Sistemas Informaticos 24/25*
