@@ -1,9 +1,7 @@
 # ⚙️*Sistemas Informaticos 24/25*⚙️
 
-## Contenido
+## Contenido del repositorio
 Aquí encontrarás algunas de las practicas llevadas a cabo por mí en el módulo de Sistemas Informáticos.
-
-El módulo de Sistemas Informáticos en el grado superior de Desarrollo de Aplicaciones Multiplataforma es fundamental para adquirir las competencias necesarias en la instalación, configuración, mantenimiento y explotación de sistemas operativos y redes locales. Este módulo abarca una amplia variedad de temas y habilidades que son esenciales para el desarrollo profesional en el ámbito de la informática.
 
 ## Contenidos principales:
 - **Identificación del hardware**: Aprenderás a reconocer los componentes físicos de un sistema informático, desde procesadores hasta dispositivos de almacenamiento y periféricos.
